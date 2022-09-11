@@ -1,6 +1,5 @@
 # Desafio03 MasterClass05 Flutterando
 
-A new Flutter project.
 
 ## Tela Implementada
 
