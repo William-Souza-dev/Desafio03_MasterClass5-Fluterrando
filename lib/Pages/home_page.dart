@@ -17,7 +17,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Desafio 03 do Botao Flutuante"),
+        title: const Text("Desafio 03 do Botão Flutuante"),
       ),
       body: GestureDetector(
         onTap: () {
